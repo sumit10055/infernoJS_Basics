@@ -1,0 +1,16 @@
+ul, li{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+.container{
+    padding-top: 10%;
+    width: 80%;
+    margin: 0 auto;
+}
+body{
+    background-color: #feff3c;
+}
